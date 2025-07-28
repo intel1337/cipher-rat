@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+psutil
+gputil
+pynput
+requests
+pyautogui
+pillow
+plyer
+pync
+pycryptodome
